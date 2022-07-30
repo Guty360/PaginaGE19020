@@ -1,0 +1,83 @@
+.container {
+    align-content: center;
+    background: local;
+
+    border-radius: 20px;
+
+    padding: 50px;
+
+    opacity: 0.9;
+}
+
+.contain {
+    background-color: #c87912;
+    border-radius: 20px;
+
+    padding: 50px;
+
+    opacity: 0.9;
+}
+
+body {
+    background-image: url(./Image/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    color: aqua;
+    text-align-last: center;
+
+}
+
+p {
+    color: aqua;
+    text-align-last: left;
+
+}
+
+.fot {
+    display: flex;
+    border-radius: 25px;
+    object-fit: cover;
+    min-width: 420px;
+}
+
+.pirata {
+    border-radius: 25px;
+    tab-size: 15px;
+    width: 250px;
+    left: 150px;
+    height: 150px;
+}
+
+.tabla1 {
+    color: aqua;
+}
+
+.tabla2 {
+    color: rgb(212, 212, 212);
+    border: 15px;
+    border-bottom: 24px;
+    margin-left: 75px;
+    margin-top: 15px;
+}
+
+a {
+    color: azure;
+    outline-color: chartreuse;
+}
+
+.titulo {
+    color: aqua;
+   text-align: left;
+}
+.video{
+    width: 500px;
+    height: 350px;
+    
+}
+.datos{
+    color: coral;
+}
